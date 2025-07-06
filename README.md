@@ -3,7 +3,6 @@
   <i>Linux Poweruser | Terminal Demon | Mobile App Dev</i>
 </p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -12,7 +11,6 @@
 - 🔧 Building TUI apps, bots, and terminal toys  
 - 🎯 Learning C, Go, and Systems Programming  
 
----
 
 ### 🛠️ Tech Stack
 
@@ -27,7 +25,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white)
 
----
 
 ### 📊 GitHub Stats
 
@@ -39,21 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd6260&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
----
 
-### 🔗 Links & Contact
-
-- 📫 Email: your.email@domain.com  
-- 🕸️ Portfolio: [yourwebsite.dev](https://yourwebsite.dev)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🐧 Reddit: [u/your_reddit](https://reddit.com/u/your_reddit)
-
----
 
 ### 💬 Quote I Live By
 
 > "yo what the dog doin"
 
----
 
 <p align="center">💻 Built with love from the command line</p>
