@@ -4,13 +4,6 @@
 </p>
 
 
-### 👨‍💻 About Me
-
-- 🧠 Currently studying Computer Science  
-- 🐧 Daily driving Linux like it’s second nature (I use arch btw)
-- 🔧 Building TUI apps, bots, and terminal toys  
-- 🎯 Learning C, Go, and Systems Programming  
-
 
 ### 🛠️ Tech Stack
 
@@ -20,10 +13,8 @@
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white)
 
 
 ### 📊 GitHub Stats
@@ -36,11 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd6260&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-
-
-### 💬 Quote I Live By
-
-> "yo what the dog doin"
-
-
-<p align="center">💻 Built with love from the command line</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&width=435&lines=at+some+point+i+touched+a+computer;and+the+computer+did+what+i+wanted;i+made+it+do+exactly+what+i+wanted+it+to+do;and+i+realized;i+am+a+god" alt="Typing SVG" /></a>
