@@ -21,7 +21,6 @@ here’s some of the tech i’ve picked up along the journey:
 - 🖥️ linux (arch, fedora, hyprland, kitty, neovim, tmux)  
 - 🤖 computer vision: opencv, tesseract  
 - 📊 stats, data viz, and ai basics  
-- 🔌 arduino, esp8266, raspberry pi (basic embedded stuff)
 
 
 ⚡️ powered by linux, coffee, and chaos.
